@@ -1,0 +1,13 @@
+{
+  "name": "deadlock-meta-th",
+  "version": "1.0.0",
+  "description": "Deadlock Meta Thailand: Web Analytics, Hero Tier List, Builds & Item Database in Thai",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "kitno",
+  "license": "MIT"
+}
